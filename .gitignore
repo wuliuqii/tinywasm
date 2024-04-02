@@ -8,3 +8,5 @@ perf.*
 flamegraph.svg
 /.idea
 /*.iml
+
+.direnv
